@@ -1,1 +1,31 @@
+    
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+ border: 10px double black; 
+   background-image: linear-gradient(to top right, purple, black);
 
+}
+li a:hover {
+  background-color: #111;
+}
+li {
+  float: left;
+  border-right: none; 
+}
+
+li a {
+  display: block;
+  color: pink;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: ;
+}    
+
+    
