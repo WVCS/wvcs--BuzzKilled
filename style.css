@@ -5,7 +5,7 @@
   padding: 5px;
   overflow: hidden;
  border: 10px double black; 
-   background-image: linear-gradient(to top right, purple, black);
+   background-image: linear-gradient(to top right, red, purple, orange);
 
 }
 li a:hover {
@@ -27,5 +27,9 @@ li a {
 li a:hover {
   background-color: ;
 }    
+body {
+   background-image: linear-gradient(to top right, red, purple, orange); ;
+  background-repeat: no-repeat, repeat
+  }
 
     
